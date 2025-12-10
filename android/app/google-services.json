@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107430334627",
+    "project_id": "prostart-84726",
+    "storage_bucket": "prostart-84726.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107430334627:android:80342c43ac4a74b7afaf16",
+        "android_client_info": {
+          "package_name": "com.example.prostart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107430334627-gecdbvl2tuha0738sbpe67r0l7pgd10i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prostart",
+            "certificate_hash": "22a8b11625b3a7c9f22d63d7b3d04deb9bd48cfd"
+          }
+        },
+        {
+          "client_id": "107430334627-7cj4na226bl66krdr0g5mu9pc02hha0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlN03HZ6CxYUUVCFKOCnTGuA3mZ4-HW9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107430334627-7cj4na226bl66krdr0g5mu9pc02hha0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
