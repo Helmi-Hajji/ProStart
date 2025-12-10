@@ -5,33 +5,33 @@
 
 > **ProStart** is a smart mobile application that helps **fresh graduates** discover their ideal IT career path using **AI-powered CV analysis**, **job-based quizzes**, and **personalized course recommendations**.
 
-📌 Final Year Project (PFE)  
-📱 Built with **Flutter**, **Firebase**, and **FastAPI (AI)**
+ Final Year Project (PFE)  
+ Built with **Flutter**, **Firebase**, and **FastAPI (AI)**
 
 ---
 
-## ✨ Why ProStart?
+##  Why ProStart?
 
-✅ Unsure which IT career fits you best?  
-✅ No professional experience yet?  
-✅ Need real guidance, not generic advice?
+ Unsure which IT career fits you best?  
+ No professional experience yet?  
+ Need real guidance, not generic advice?
 
-👉 **ProStart turns uncertainty into direction.**
+ **ProStart turns uncertainty into direction.**
 
 ---
 
-## 🎥 App Preview
+##  App Preview
 
-### 🏠 Home & Dashboard
+###  Home & Dashboard
 ![Home Screen](assets/screenshots/home.png)
 
-### 🧠 Job-Oriented Quiz
+###  Job-Oriented Quiz
 ![Quiz Screen](assets/screenshots/quiz.png)
 
-### 📄 AI CV Analysis
+###  AI CV Analysis
 ![CV Analysis](assets/screenshots/cv_analysis.png)
 
-### 🎓 Course Recommendations
+###  Course Recommendations
 ![Courses](assets/screenshots/courses.png)
 
 > 📌 Replace these images with real screenshots later  
@@ -39,15 +39,15 @@
 
 ---
 
-## 🔥 Core Features
-
-### 👤 User Experience
+## Core Features  
+  
+### User Experience
 - Secure authentication (Firebase)
 - Editable profile with avatar
 - Smooth UI with animations
 - Real-time Firestore synchronization
 
-### 🧠 Smart Quiz System
+### Smart Quiz System
 - Job-based quizzes (stored in Firebase)
 - Multiple question types:
     - Multiple Choice
@@ -56,14 +56,14 @@
 - Real-time scoring
 - **Dynamic matched job calculation**
 
-### 📄 AI CV Analysis
+### AI CV Analysis
 - Upload PDF CV directly from device
 - AI pipeline:
     - **DocTR** → CV text extraction
     - **spaCy** → NLP & skill detection
 - CV improvement feedback
 
-### 🎓 Course Recommendation
+### Course Recommendation
 - Courses linked to matched job
 - Stored in Firebase Firestore
 - Course details:
@@ -74,14 +74,9 @@
     - Certification
 - Click tracking for analytics
 
-### 🛠 Admin Module
+### Admin Module
 - Manage quiz questions
 - Manage courses
 - Update Firestore data dynamically
 
----
-
-## 🧠 How It Works
-
-![Architecture](assets/screenshots/architecture.png)
 
