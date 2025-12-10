@@ -26,16 +26,16 @@
 ![Home Screen](assets/screenshots/home.png)
 
 ###  Job-Oriented Quiz
-![Quiz Screen](assets/screenshots/quiz.png)
+![Quiz Screen](assets/screenshots/quiz_home.png)
+![Quiz Question](assets/screenshots/quiz_home.png)
 
 ###  AI CV Analysis
-![CV Analysis](assets/screenshots/cv_analysis.png)
+![CV Upload](assets/screenshots/cv_upload.png)
+![CV Feedback](assets/screenshots/cv_feedback.png)
 
 ###  Course Recommendations
 ![Courses](assets/screenshots/courses.png)
 
-> 📌 Replace these images with real screenshots later  
-> `assets/screenshots/*.png`
 
 ---
 
