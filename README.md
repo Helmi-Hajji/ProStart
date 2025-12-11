@@ -27,7 +27,7 @@
 
 ###  Job-Oriented Quiz
 ![Quiz Screen](assets/screenshots/quiz_home.png)
-![Quiz Question](assets/screenshots/quiz_home.png)
+![Quiz Question](assets/screenshots/quiz_question.png)
 
 ###  AI CV Analysis
 ![CV Upload](assets/screenshots/cv_upload.png)
